@@ -13,6 +13,7 @@
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
         "outputPath": "D:\\SEM3_RIDER_PROJECTS\\Azure_test_Battlegame\\Azure_test_Battlegame\\obj\\",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],

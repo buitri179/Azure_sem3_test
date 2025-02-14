@@ -141,3 +141,4 @@ D:\SEM3_RIDER_PROJECTS\Azure_test_Battlegame\Azure_test_Battlegame\obj\Debug\net
 D:\SEM3_RIDER_PROJECTS\Azure_test_Battlegame\Azure_test_Battlegame\obj\Debug\net8.0\Azure_test_Battlegame.pdb
 D:\SEM3_RIDER_PROJECTS\Azure_test_Battlegame\Azure_test_Battlegame\obj\Debug\net8.0\Azure_test_Battlegame.genruntimeconfig.cache
 D:\SEM3_RIDER_PROJECTS\Azure_test_Battlegame\Azure_test_Battlegame\obj\Debug\net8.0\ref\Azure_test_Battlegame.dll
+D:\SEM3_RIDER_PROJECTS\Azure_test_Battlegame\Azure_test_Battlegame\obj\Debug\net8.0\Azure_test_Battlegame.sourcelink.json
